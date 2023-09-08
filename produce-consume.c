@@ -2,7 +2,7 @@
 void main()
 {
 int buffer[10], bufsize, in, out, produce, consume,choice=0; 
-000in = 0;
+in = 0;
 out = 0;
 bufsize = 10;
 while(choice !=3)
